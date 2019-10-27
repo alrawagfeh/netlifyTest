@@ -32,6 +32,7 @@ class App extends Component {
   render() {
     return (
       <React.Fragment>
+        <h1>netlify test</h1>
         <ReactPlayer
           url="https://www.youtube.com/watch?v=6gPnXHMLSOE"
           playing
